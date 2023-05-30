@@ -1,5 +1,4 @@
 ### Hi there 👋
-# Welcome to My GitHub Profile!
 
 ## About Me
 I am a software developer at Retail Consult, located in Porto, Portugal. 
